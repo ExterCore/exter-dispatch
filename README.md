@@ -57,9 +57,4 @@ Only players with jobs listed in `Config.EmergencyJobs` (e.g., `police`, `ambula
 - UI Design: **Inspired by NoPixel 4.0**
 
 ## 📸 Preview
-![noo](https://github.com/user-attachments/assets/12a2b774-a1e0-41f4-aba8-952da676d133)
-
-
-https://github.com/user-attachments/assets/55c6dd6b-0ee4-4b4c-bfa9-ddb84d7213d5
-
-
+![Dispatch UI Preview](noo.png)
