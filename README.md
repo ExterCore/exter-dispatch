@@ -10,7 +10,7 @@
 
 ## 🧰 Installation
 
-1. **Download and extract** this resource into your `resources/[your_resources]/exter-dispatch` folder.
+1. **Download and extract** this resource into your `resources/[exter-dispatch]/exter-dispatch` folder.
 2. Add the following line to your `server.cfg`:
    ```
    ensure exter-dispatch
